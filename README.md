@@ -32,14 +32,6 @@ foodiscover/
 └── README.md         # Project documentation
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Internet connection (for Bootstrap CDN and recipe images)
-
-
 ## 🎯 Usage
 
 1. **Discover Recipes**: Use the swipe interface on the home page to discover new recipes
