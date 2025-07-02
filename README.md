@@ -64,4 +64,4 @@ The application currently showcases a traditional **Sunday Roast** recipe, featu
 
 **Happy Cooking! 👨‍🍳👩‍🍳**
 
-*Discover your next favorite meal with FooDiscover*
+*Discover your next favourite meal with FooDiscover*
